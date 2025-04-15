@@ -1,0 +1,10 @@
+Username: adi
+Sports joined: bb
+Clubs joined: cc
+Services: no
+More: no
+Username: ADI
+Sports joined: BB
+Clubs joined: CC
+Services: NO
+More: NO

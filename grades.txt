@@ -1,0 +1,3 @@
+Hiran: Datascience: 80.0, IT: 80.0, FOM: 80.0, Academic English: 9.0, ITF: 99.0
+adi,10.0,20.0,30.0,40.0,50.0
+ADI,10.0,20.0,30.0,40.0,50.0
